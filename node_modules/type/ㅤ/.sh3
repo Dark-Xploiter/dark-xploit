@@ -1,0 +1,34 @@
+clear
+#echo -e "\e[1;32m$(cowsay -f eyes 'DARK XPLOITER')\e[0m"
+echo -e '\e[31;1m                        `/ymMMMMMMMMmy/`'
+echo -e '                    `/ymMMMMMMMMMMMMMMmy/`'
+echo -e '                   /hMMMMMMMMMMMMMMMMMMMMMMh/'
+echo -e '                 /mMMmNMMMMMNNNNNNNNMMMMMNNMMm/'
+echo -e '               `hNmo:dMMNNNmNNmNNmNNmNNNMMd:omNh`'
+echo -e '              .mh:+/hMNNNNmNNmNdhmmNNmNNNNMy/o:hm.'
+echo -e '             `d+://sNmMMMmMMMmdy+/mMMMmMMMmNs///+d`'
+echo -e '             ys.o/oMmNNNmNNMNNMmdMNNMNNmNNNmMo/o.ys'
+echo -e '            `my.-/NmMMMMmMMNmNNyyNNmNMMmMMMMmN/:`ym`'
+echo -e '            -h/+s/MmMMMNmNNNdym++mymNNNmNMMNmM:so/h-\e[37;1m'
+echo -e '            -N.o.sMmMMMNh/:-`-MosM-`-:/hNMMMmMs.+.N-'
+echo -e '            `ho/-ohmMMMM/    -M/+M.    /MMMMmho-/oh'
+echo -e '             s+-s-odmNNN`     /-:/     .NNNmd+:s-+s'
+echo -e '             `mo/-:+ymMm                mMms+:-/om`'
+echo -e '              .h/+/y`hhs                yyh`y/+/h.'
+echo -e '               `hd/::-+.                .+-::/dy`'
+echo -e '                 /hs+/::.--          --.::/+sh:'
+echo -e '                   :hds+/-`          `-/+sdh:'
+echo -e '                     `/ymM+          oMmy:'
+echo -e '                        \e[41m DARK  XPLOITER \e[0m'
+echo -e '                       \e[1;36m===[ \e[1;37mCoded By \e[1;36m]==='
+toilet -f standard "dark" -F gay
+echo -e ""
+neofetch --ascii_distro BlackArch
+echo -e "\e[1;32m$(date)\e[0m"
+echo ""
+PS1='\e[1;34m\]┌──(\[\e[1;31m\]root㉿localhost\[\e[1;34m\])-[\[\e[0;37m\]\w\[\e[1;34m\]]
+\[\e[1;34m\]└─\[\e[1;31m\]#\[\e[0;37m\] '
+
+#Yg atas boleh di recode sendiri
+#Coded By ./Shadow Xploit
+#Thanks To Allah SWT
