@@ -19,4 +19,4 @@ npm install
 npm install nik-parse -g
 npm install javascript-obfuscator -g
 cd .bot && npm install
-echo -e "\n\033[1;34mInstalasi selesai! \nSilakan jalankan tools dengan perintah \033[0;37mpython3 bot.py"
+echo -e "\n\033[1;34mInstalasi selesai! \nSilakan jalankan tools dengan perintah \033[0;37mpython3 main.py"
