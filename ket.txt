@@ -1,0 +1,32 @@
+*[DARK XPLOIT V4.0.5]*
+*NOTE: TOOLS INI TIDAK DISUSUN UNTUK TUJUAN KRIMINALITAS.*
+DAFTAR FITUR & DESKRIPSI
+01. LAYER 7 DDOS ATTACK Metode serangan DDoS yang menargetkan lapisan aplikasi dari model OSI. Jika server webnya kecil dan tidak mempunyai firewall seperti Cloudflare dan lain-lain, maka web akan down/offline, berskala dengan jumlah penyerang.
+02. LAYER 4 DDOS ATTACK Metode serangan DDoS yang menargetkan lapisan transport dari model OSI. Bisa juga digunakan untuk mengganggu jaringan Wi-Fi.
+03. VULNERABILITY SCANNER (MANUAL) Alat untuk memindai dan menemukan kerentanan pada situs web.
+04. VULNERABILITY SCANNER (AUTO) Alat untuk memindai dan menemukan kerentanan pada situs web secara otomatis dan strategi eksekusinya.
+05. DOMAIN / IP SCANNER Alat untuk mencari informasi dan melakukan pemindaian pada IP atau domain.
+06. SITE FILE SCRAPER Alat untuk mengekspos, mengumpulkan, atau membocorkan database file dari situs web.
+07. SITE EMAIL SCRAPER Alat untuk mengumpulkan akun email dari situs web untuk mempermudah Bug Hunter melaporkan bug temuannya ke admin website.
+08. SITE VISITOR Alat untuk menambah/memanipulasi pengunjung atau lalu lintas situs web.
+09. RDP KALI LINUX SSH Remote Desktop Protocol menggunakan SSH untuk mengakses Kali Linux secara virtual tanpa perlu menginstalnya.
+10. WIFI STRESSER Alat yang dapat digunakan untuk menguji fungsionalitas atau memutus koneksi Wi-Fi.
+11. IP LOOKUP Alat untuk mendapatkan informasi mendetail terkait alamat IP.
+12. LINUX STYLE (FOR TERMUX) Mengubah tampilan Termux dengan gaya Linux.
+13. BRUTEFORCE ZIP PASSWORD Alat untuk melakukan brute force pada file ZIP yang dilindungi kata sandi. Gunakan wordlist (angka.txt) jika kemungkinan passwordnya berupa angka.
+14. USERNAME TRACKER Alat untuk melacak penggunaan username di berbagai platform media sosial.
+15. SPAM OTP WHATSAPP Alat untuk mengirim spam OTP WhatsApp secara brutal ke nomor target.
+16. SPAM SENDER EMAIL Alat untuk mengirim spam pesan ke email target. Disarankan tidak mengirim dengan jumlah lebih dari 10 agar notifikasi benar-benar terlihat ke email target dan tidak terdeteksi spam.
+17. SPAM BUG API TELEGRAM Alat untuk mengirim bug melalui API Telegram.
+18. SPAM MAIL MOBILE LEGENDS Alat untuk mengirim spam ke mail Mobile Legends.
+19. APK SENDER BUG WHATSAPP Alat untuk mengirimkan pesan yang tidak bisa diterima oleh aplikasi WhatsApp sehingga WhatsApp target tidak bisa dibuka.
+20. WHATSAPP WEB CLI Alat untuk memantau chat WhatsApp anak melalui terminal.
+21. NMAP CCTV SCANNER Alat untuk memindai dan mengeksekusi kerentanan pada keamanan CCTV di dalam sebuah jaringan Wi-Fi.
+22. TROJAN TERMUX GENERATOR Alat untuk menghasilkan file atau skrip gangguan tertentu yang dapat dijalankan di lingkungan Termux.
+23. RANSOMWARE TERMUX GENERATOR Alat untuk menghasilkan virus ransomware yang bisa mengunci Termux orang lain dengan metode mengirimkan file.py ke target dengan berpura-pura bagi-bagi script gratis. Jangan lupa kodenya dienkripsi/obfuscasi agar passwordnya tidak terbaca.
+24. PYTHON OBFUSCATOR Alat untuk melakukan enkripsi/obfuscasi dan mengamankan script Python Anda dari modifikasi tanpa izin.
+25. JAVASCRIPT OBFUSCATOR Alat untuk melakukan enkripsi/obfuscasi kode JavaScript.
+26. NIK CHECKER Alat untuk menguraikan data dan memvalidasi Nomor Induk Kependudukan (NIK).
+27. BOT WHATSAPP FULL FITUR Bot WhatsApp multi device dengan berbagai fitur yang cukup membantu kegiatan sehari-hari, seperti downloader, jaga grup, membuat stiker, dan utilitas lainnya.
+00. EXIT PROGRAM Keluar dari program.
+    

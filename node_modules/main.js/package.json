@@ -1,0 +1,17 @@
+{
+  "author": "Invariable LHP <invariable.lhp@gmail.com> (http://luhp.me)",
+  "name": "main.js",
+  "description": "A unified webapp framework",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/invariable/main.js.git"
+  },
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

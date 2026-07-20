@@ -1,0 +1,16 @@
+{
+   List: {
+      No results found: {
+         Data: [
+            {}
+         ]
+         InfoLeak: <em> Atas permintaan Anda tidak ada hasil yang ditemukan. Entah mereka tidak atau semua kata dalam permintaan Anda terlalu sering ditemukan sehingga dapat diperiksa. Cobalah untuk mengubah permintaan. </em>
+         NumOfResults: 1
+      }
+   }
+   NumOfDatabase: 1
+   NumOfResults: 1
+   free_requests_left: 81
+   price: 0
+   search time: 0.0
+}
