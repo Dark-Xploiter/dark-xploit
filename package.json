@@ -1,65 +1,84 @@
 {
-  "name": "dark-xploit",
-  "version": "1.0.1",
-  "description": "",
-  "main": "main.js",
+  "name": "Dark-Xploit",
+  "version": "1.0.2",
+  "description": "Bot WhatsApp Using Lib Baileys Multi Device",
+  "main": "start.js",
   "type": "commonjs",
+  "scripts": {
+    "start": "node start.js",
+    "dev": "nodemon index.js",
+    "debug": "DEBUG=* node start.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "baileys-md",
+    "bot-wa",
+    "multi-device"
+  ],
+  "author": "Nazedev",
+  "license": "MIT",
   "directories": {
     "lib": "lib",
-    "temp": "temp",
-    "session": "session"
+    "src": "src"
   },
-  "scripts": {
-    "start": "node main.js"
+  "engines": {
+    "node": ">=20.0.0"
   },
-  "author": "ShadowXploit",
-  "license": "MIT",
   "dependencies": {
-    "@adiwajshing/keyed-db": "^0.2.4",
-    "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "^6.5.0",
-    "awesome-phonenumber": "^5.9.0",
-    "axios": "^1.7.5",
+    "@hapi/boom": "^10.0.0",
+    "aki-api": "npm:@aqul/akinator-api@1.0.1",
+    "awesome-phonenumber": "^4.4.0",
+    "axios": "^0.24.0",
+    "baileys": "latest",
     "chalk": "^4.1.2",
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.0.0-rc.10",
+    "chess.js": "^1.2.0",
     "child_process": "^1.0.2",
-    "cloudscraper": "^4.6.0",
-    "cluster": "^0.7.7",
-    "colors": "^1.4.0",
-    "crypto": "^1.0.1",
-    "deobfuscator": "^2.4.5",
-    "events": "^3.3.0",
     "express": "^4.18.2",
-    "fake-useragent": "^1.0.1",
     "file-type": "^16.5.3",
-    "fs": "^0.0.1-security",
-    "gradient-string": "^2.0.2",
-    "headerhelp": "^0.0.4",
-    "hpack": "^1.0.0",
-    "http": "^0.0.1-security",
-    "http2": "^3.3.7",
-    "https-proxy-agent": "^7.0.6",
-    "lodash": "^4.17.21",
-    "main.js": "^0.0.1",
+    "filesize": "^10.0.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "https": "^1.0.0",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.2",
+    "jsdom": "^21.1.0",
+    "lowdb": "^2.1.0",
+    "md5": "^2.3.0",
     "moment-timezone": "^0.5.43",
-    "mongoose": "^8.14.3",
-    "net": "^1.0.2",
+    "mongoose": "^7.3.4",
+    "ms": "^2.1.3",
     "node-cache": "^5.1.2",
-    "node-fetch": "^2.7.0",
-    "node-telegram-bot-api": "^0.63.0",
-    "parse-ms": "^2.1.0",
-    "pino": "^8.14.1",
-    "prompt-sync": "^4.2.0",
-    "randomstring": "^1.3.0",
-    "readline": "^1.3.0",
-    "request": "^2.88.2",
-    "requests": "^0.3.0",
-    "telegraf": "^4.15.3",
-    "tls": "^0.0.1",
-    "url": "^0.11.3",
-    "user-agents": "^1.1.119",
-    "util": "^0.12.4",
-    "vm": "^0.1.0",
-    "qrcode-terminal": "^0.12.0"
-  }
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "node-webpmux": "^3.2.0",
+    "nodemon": "*",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pdfkit": "^0.13.0",
+    "perf_hooks": "^0.0.1",
+    "performance-now": "^2.1.0",
+    "pino": "^8.8.0",
+    "pngjs": "^7.0.0",
+    "process": "^0.11.10",
+    "qrcode": "*",
+    "qrcode-terminal": "*",
+    "util": "^0.12.5",
+    "xmlhttprequest": "^1.8.0",
+    "yargs": "^17.6.2",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "npm:@distube/ytdl-core@latest"
+  },
+  "overrides": {
+    "baileys": {
+      "jimp": "^0.16.2"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazedev/hitori.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nazedev/hitori/issues"
+  },
+  "homepage": "https://github.com/nazedev/hitori#readme"
 }
